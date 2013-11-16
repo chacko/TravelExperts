@@ -1,0 +1,56 @@
+#wrap {
+	width: 80%;
+	margin: auto;
+}
+
+header {
+	height: 200px;
+	background: #CFCBC4;
+}
+
+#menu {	
+	/*clear: both;*/
+	height: 50px;
+	background: #0D1FA6;
+}
+
+
+#content {
+	height: auto;
+	background: #F5F5FA;
+}
+
+footer {
+	clear: both;
+	height: 60px;
+	background:  #CFCBC4;
+	color: #38383B;
+	text-align: center;
+}
+
+#logo {
+	float:left;
+	height:200px;
+}
+
+#banner {
+	margin:auto;
+	/*padding-top:10px;*/
+}
+
+#welcome {
+	color: green;
+	font-family: Arial;
+}
+.links{
+	font-size:20px;
+	width:17%;
+	height:30px;
+	padding-top:10px;
+	margin-left:70px;
+	float:left;
+}
+a {
+	color: #FFFFFF;
+    text-decoration: none;
+}
